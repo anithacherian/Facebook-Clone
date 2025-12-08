@@ -1,0 +1,28 @@
+
+.navbar{
+  width: 650px;
+  float: left;
+  height: 60px;
+  background-color: rgba(127, 255, 212, 0.644);
+  margin: 0;
+  padding: 0;
+}
+.navbar ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height:100%;
+}
+.navbar ul li,.navbar ul li a{
+  list-style: none;
+  float: left;
+  width: 100px;
+  line-height: 15px;
+  height:100%;
+  line-height: 55px;
+  padding: 0 12px;
+  color: white;
+}
+.navbar ul li a:hover{
+  color:rgba(5, 80, 54, 0.644);
+}
